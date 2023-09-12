@@ -1,0 +1,172 @@
+
+#
+ include : identifier
+ relational operator <
+ iostream : identifier
+ relational operator <
+ using : identifier
+ namespace : identifier
+ std : identifier
+; 
+ int : keyword 
+ main : identifier
+(
+)
+{ 
+ int : keyword 
+ n : identifier
+;
+ cout : identifier
+ relational operator <
+ relational operator <
+"
+ Enter : identifier
+ a : identifier
+ positive : identifier
+ integer : identifier
+:
+"
+;
+ cin : identifier
+ relational operator <
+ relational operator <
+ n : identifier
+;
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexemecomment did not close
+
+Symbol Table:
+include
+iostream
+using
+namespace
+std
+main
+n
+cout
+Enter
+a
+positive
+integer
+cin
